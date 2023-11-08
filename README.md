@@ -5,7 +5,7 @@
     border: 1px solid rgba(255, 255, 255, 0.125);">
   
 # My name is Atalay Ozyildirim , 22 years old 
-# I'm study of Beykent university Computer Science
+ I'm study of Beykent university Computer Science
 
 [My github page](https://github.com/Atalayozyldrm)
 [Twitter](https://twitter.com/atalayozyildrim)
